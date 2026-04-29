@@ -1,0 +1,18 @@
+{
+  "ocr": {
+    "passed": 5,
+    "total": 5
+  },
+  "parser": {
+    "passed": 5,
+    "total": 5
+  },
+  "matcher": {
+    "passed": 12,
+    "total": 12
+  },
+  "rag": {
+    "passed": 4,
+    "total": 5
+  }
+}
