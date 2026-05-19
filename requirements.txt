@@ -5,7 +5,8 @@ python-dotenv
 
 opencv-python-headless==4.8.0.76
 pytesseract==0.3.10
-Pillow==10.0.0
+
+Pillow==10.2.0
 numpy==1.24.3
 
 fuzzywuzzy==0.18.0
@@ -15,10 +16,10 @@ matplotlib==3.7.2
 
 ultralytics==8.0.196
 
-paddleocr==2.7.3
-paddlepaddle
-
 easyocr
 
 torch
 torchvision
+
+paddleocr==2.7.3
+paddlepaddle==2.6.2
